@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1768746952711,
+      "name": "Malak Hidara",
+      "email": "malakhdr@gmail.com",
+      "password": "aaaa",
+      "balance": 10000,
+      "createdAt": "2026-01-18T14:35:52.711Z"
+    }
+    
+  ],
+  "bankCards": [
+     { "id": 1, "userId":  1768746952711, "cardNumber": "**** **** **** 1111", "type": "Visa", "expiry": "09/29", "active": true, "balance": 12000 },
+     { "id": 2, "userId":  1768746952711, "cardNumber": "**** **** **** 2222", "type": "MasterCard", "expiry": "05/26", "active": true, "balance": 25600 }
+  ],
+  "paypals": [],
+  "cryptos": [],
+  "transactions": []
+}
